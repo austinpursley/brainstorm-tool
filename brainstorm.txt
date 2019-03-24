@@ -1,0 +1,47 @@
+Date: 2019.03.24
+Subjects: robot arm, eulerian video magnification, hurricane, 
+Ideas:
+13:38:50 eulerian video magnification with plants. at the microlevel as well
+13:40:49 The Hurricane, name of my robot fighter with robot arm that just swings around
+
+Date: 2019.03.24
+Subjects: harpoon, wireless, VL camera, 
+Ideas:
+14:10:29 heat seeking harpoon
+14:10:49 twitch stream whale hunt (HARPOON CAM)
+14:11:34 see inside of whale with camera pill
+
+Date: 2019.03.24
+Subjects: twtich, sonar, ultrasonic rangefinder, 
+Ideas:
+14:22:30 twitch bat cam
+14:23:27 twitch stream, navigate a robot but instead of camera it's sonic rangefinder
+
+Date: 2019.03.24
+Subjects: music, optogenetics, radio controlled, Juypter notebook, 
+Ideas:
+14:26:10 record 'music discoveries' in Juypter
+14:26:59 optogenetics to.... activate music part of the brain?? to make them percieve sound without any sound coming into their brain
+
+Date: 2019.03.24
+Subjects: regression, lightning, lab rats, 
+Ideas:
+14:27:31 how fast can rats run?
+14:28:16 what it is the shortest time for a flash of light that can be percieved?
+14:31:44 remy smoking cheese on the roof before lightning strikes
+
+Date: 2019.03.24
+Subjects: Foot pedal, radiation, laser, 
+Ideas:
+15:40:43 a foot pedal to control the intensity of a laser
+15:41:02 can lasers detect radiation?
+15:46:10 uhhhh laser foot surgery
+
+Date: 2019.03.24
+Subjects: classificaiton, DNA sequencer, 
+Ideas:
+15:47:38 using DNA data from many different people, use machine learning to classify them into different groups. something like k-means
+15:48:01 using machine learning to find patterns in DNA sequences
+15:48:53 recreate a portrait of someone with their DNA sequence
+15:49:44 instead of high level traits like disease or blue eyes, find classificaitons for low level traits, stuff on moledcular level
+
