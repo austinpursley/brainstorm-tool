@@ -56,8 +56,9 @@ def brainstorm(subject_list=[], max_subjects=5, minutes=3.0, file_name='brainsto
          f.write(idea + ", ")
     f.write('\nIdeas:\n')
     # enter as many ideas as possible in time given/entered
+    #NOTE: program doesn't exit when time limit reached until user inputs something
     t_end = time.time() + 60 * minutes
-    while time.time() < t_end:
+    while time.time() < t_end: 
         idea = raw_input("Input an idea: \n")
         st = datetime.datetime.fromtimestamp(time.time()).strftime('%H:%M:%S ')
         f.write(st + idea + '\n')
