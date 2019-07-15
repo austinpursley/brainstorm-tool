@@ -12,7 +12,7 @@ import time
 
 def brainstorm(subject_list=[], max_subjects=5, minutes=3.0, file_name='brainstorm.txt'):
     """
-    Crativiety tool, record as mnany ideas as you can given random ideas from list.
+    Crativiety tool, record as many ideas as you can given random ideas from list.
     
     Keyword arguments:
     subject_list -- list of ideas to randomly sample from
